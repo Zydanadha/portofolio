@@ -49,8 +49,8 @@ section {
 }
 
 .center-image img {
-    max-width: 100%;
-    height: auto;
+    width: 25%;
+    height: 25%;
     border-radius: 10px; /* Estetika */
 }
 
